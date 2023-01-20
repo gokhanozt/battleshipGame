@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenshot:
+!Screenshot](https://github.com/gokhanozt/battleshipGame/blob/main/public/screenshot1-bsgame.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:

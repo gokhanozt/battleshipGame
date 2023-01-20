@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo: [https://battleship-game-gk.netlify.app/](https://battleship-game-gk.netlify.app/)
+
 Screenshot:
 ![Screenshot](https://github.com/gokhanozt/battleshipGame/blob/main/public/screenshot1-bsgame.png?raw=true)
 
